@@ -4,7 +4,8 @@ Hello, I'm a programmer who is mainly interested in coding gameplay systems and 
 # Projects
 
 ## Call of Doodles: Stickmen
-<img width="2560" height="1600" alt="Image" src="https://github.com/user-attachments/assets/39d8e826-2e7f-4c10-b889-1565db6d371a" />
+<img width="50%" height="1600" alt="Image" src="https://github.com/user-attachments/assets/39d8e826-2e7f-4c10-b889-1565db6d371a" />
+<br>
 - Group project: 6 people <br>
 - Estimated time: 5 months <br>
 - Game engine: Unity <br>
@@ -15,7 +16,8 @@ Call of Doodles: Stickmen is a wave-based FPS game where you fight off hordes of
 Itch.io link: https://falafelwaffles1.itch.io/call-of-doodles-stickmen 
 
 ## Blow a Bubble
-<img width="2560" height="1600" alt="Image" src="https://github.com/user-attachments/assets/23b67c9f-f070-4a81-8abd-93305d6f4ca6" />
+<img width="50%" height="1600" alt="Image" src="https://github.com/user-attachments/assets/23b67c9f-f070-4a81-8abd-93305d6f4ca6" />
+<br>
 - Solo project <br>
 - Estimated time: 1 day <br>
 - Game engine: Unity <br>
@@ -27,7 +29,8 @@ Blow A Bubble is a short game I made for the Global Game Jam 2025 where the them
 Itch.io link: https://falafelwaffles1.itch.io/blow-a-bubble 
 
 ## Giga Guns
-<img width="2560" height="1600" alt="Image" src="https://github.com/user-attachments/assets/f3072181-710d-402c-af46-e80968bbd811" />
+<img width="50%" height="1600" alt="Image" src="https://github.com/user-attachments/assets/f3072181-710d-402c-af46-e80968bbd811" />
+<br>
 - Group project: 4 people <br>
 - Estimated time: 2 months <br>
 - Game Engine: Unity <br>
